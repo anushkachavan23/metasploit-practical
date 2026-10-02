@@ -36,9 +36,8 @@ set <option> <value>
 run
 back
 exit
-
 ## 📸 Screenshots
-
+```
 ### Metasploit Practical 1
 ![Metasploit Practical 1](./Metasploit%201.jpeg)
 
