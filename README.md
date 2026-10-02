@@ -45,26 +45,19 @@ exit
 ### Metasploit Practical 2
 ![Metasploit Practical 2](./Metasploit.2)
 
-### Metasploit Practical 3
-![Metasploit Practical 3](./Metasploit.3)
+![Metasploit Practical 3](./Metasploit.3.png)
 
-### Metasploit Practical 4
-![Metasploit Practical 4](./Metasploit.4)
+![Metasploit Practical 4](./Metasploit.4.png)
 
-### Metasploit Practical 5
-![Metasploit Practical 5](./Metasploit.5)
+![Metasploit Practical 5](./Metasploit.5.png)
 
-### Metasploit Practical 6
-![Metasploit Practical 6](./Metasploit.6)
+![Metasploit Practical 6](./Metasploit.6.png)
 
-### Metasploit Practical 7
-![Metasploit Practical 7](./Metasploit.7)
+![Metasploit Practical 7](./Metasploit.7.png)
 
-### Metasploit Practical 8
-![Metasploit Practical 8](./Metasploit.8)
+![Metasploit Practical 8](./Metasploit.8.png)
 
-### Metasploit Practical 9
-![Metasploit Practical 9](./Metasploit.9)
+![Metasploit Practical 9](./Metasploit.9.png)
 
 ### Metasploit Practical 10
 ![Metasploit Practical 10](./Metasploit.10.png)
