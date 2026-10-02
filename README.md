@@ -66,5 +66,5 @@ exit
 ![Metasploit Practical 11](./Metasploit.11.png)
 
 ### Metasploit Practical 12
-![Metasploit Practical 12](./Metasploit.12.png)
+![Metasploit Practical 12](./Metasploit..12.png)
 
