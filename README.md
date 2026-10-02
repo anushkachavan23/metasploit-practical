@@ -37,18 +37,41 @@ run
 back
 exit
 ## 📸 Screenshots
+
 ```
 ### Metasploit Practical 1
-![Metasploit Practical 1](./Metasploit%201.jpeg)
+![Metasploit Practical 1](./Metasploit.1)
 
 ### Metasploit Practical 2
-![Metasploit Practical 2](./Metasploit%202.jpeg)
+![Metasploit Practical 2](./Metasploit.2)
 
 ### Metasploit Practical 3
-![Metasploit Practical 3](./Metasploit%203.jpeg)
+![Metasploit Practical 3](./Metasploit.3)
 
 ### Metasploit Practical 4
-![Metasploit Practical 4](./Metasploit%204.jpeg)
+![Metasploit Practical 4](./Metasploit.4)
 
 ### Metasploit Practical 5
-![Metasploit Practical 5](./Metasploit%205.jpeg)
+![Metasploit Practical 5](./Metasploit.5)
+
+### Metasploit Practical 6
+![Metasploit Practical 6](./Metasploit.6)
+
+### Metasploit Practical 7
+![Metasploit Practical 7](./Metasploit.7)
+
+### Metasploit Practical 8
+![Metasploit Practical 8](./Metasploit.8)
+
+### Metasploit Practical 9
+![Metasploit Practical 9](./Metasploit.9)
+
+### Metasploit Practical 10
+![Metasploit Practical 10](./Metasploit.10.png)
+
+### Metasploit Practical 11
+![Metasploit Practical 11](./Metasploit.11.png)
+
+### Metasploit Practical 12
+![Metasploit Practical 12](./Metasploit.12.png)
+
